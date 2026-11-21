@@ -12,7 +12,7 @@ max_chars = 1800          # ElevenLabs advises <= 2,000 characters per dialogue 
 
 [audio]
 loudness = -16.0          # LUFS target for speech
-tempo = 0.95              # < 1.0 slows delivery slightly for small listeners, pitch unchanged
+tempo = 1.0               # 0.95 slows delivery slightly, at some cost in energy
 gap = 0.45                # seconds of silence between consecutive speech chunks
 scene_pause = 1.2         # seconds for a [SCENE] break
 lead_in = 0.4             # silence at the very start of a track

@@ -14,19 +14,19 @@ weighty: true
 # - "He would not fit through your door": Goliath is six cubits and a span
 #   (roughly 2.9 metres) in the Hebrew text.
 
-NARRATOR: This is a story from God's book, the Bible. It is called: David and Goliath.
+NARRATOR: [warm, bright, lively storyteller speaking to small children] This is a story from God's book, the Bible. It is called: David and Goliath!
 
-NARRATOR: Two armies stood on two hills, with a valley in between. On one hill stood God's people, Israel, with their king, King Saul. On the other hill stood their enemies, the Philistines.
+NARRATOR: [setting the scene, with relish] Two armies stood on two hills, with a valley in between. On one hill stood God's people, Israel, with their king, King Saul. On the other hill stood their enemies, the Philistines.
 
-NARRATOR: And out of the Philistine army stepped a giant. His name was Goliath. He was so tall that he would not fit through your door. He wore a helmet of bronze, and a heavy coat of armour, and he carried a great big spear.
+NARRATOR: [ominous, wide-eyed] And out of the Philistine army stepped a giant. His name was Goliath. He was so tall that he would not fit through your door. He wore a helmet of bronze, and a heavy coat of armour, and he carried a great big spear.
 
 GOLIATH: [loud, proud] Israel! Choose a man to fight me! If he wins, we will be your servants. But if I win, you will be ours!
 
-NARRATOR: King Saul and all his soldiers were terribly afraid. Nobody would fight Goliath. Every morning and every evening, for forty days, the giant came out and shouted. And every day, nobody moved.
+NARRATOR: [hushed, worried] King Saul and all his soldiers were terribly afraid. Nobody would fight Goliath. Every morning and every evening, for forty days, the giant came out and shouted. And every day, nobody moved.
 
 [SCENE]
 
-NARRATOR: Now, there was a young shepherd named David. His big brothers were soldiers in the army, and one day his father sent him to bring them bread and cheese. While David was there, he heard Goliath shouting.
+NARRATOR: [brightening, cheerful] Now, there was a young shepherd named David. His big brothers were soldiers in the army, and one day his father sent him to bring them bread and cheese. While David was there, he heard Goliath shouting.
 
 DAVID: [indignant] Who is this Philistine, that he dares to shout against the army of the living God?
 
@@ -40,28 +40,28 @@ DAVID: I look after my father's sheep. When a lion came, and when a bear came, a
 
 SAUL: Go, then. And the Lord be with you.
 
-NARRATOR: Saul dressed David in his own armour. But David was not used to it. He could hardly walk! So he took it all off again.
+NARRATOR: [amused] Saul dressed David in his own armour. But David was not used to it. He could hardly walk! So he took it all off again.
 
-NARRATOR: Instead, David went down to the stream, and he chose five smooth stones. He put them in his shepherd's bag. And with his sling in his hand, he walked out to meet the giant.
+NARRATOR: [quiet, determined] Instead, David went down to the stream, and he chose five smooth stones. He put them in his shepherd's bag. And with his sling in his hand, he walked out to meet the giant.
 
 [SCENE]
 
-NARRATOR: Goliath looked at David, and he sneered.
+NARRATOR: [low, tense] Goliath looked at David, and he sneered.
 
 GOLIATH: [scornful] Am I a dog, that you come at me with sticks?
 
 DAVID: [clear and brave] You come to me with a sword and a spear. But I come to you in the name of the Lord, the God of Israel. Today the Lord will give you into my hand, and all the world will know that there is a God in Israel. For the battle is the Lord's!
 
-NARRATOR: Then David ran. He ran straight towards the giant. He put a stone in his sling, and he swung it, round, and round, and let it fly.
+NARRATOR: [fast, breathless excitement] Then David ran. He ran straight towards the giant. He put a stone in his sling, and he swung it, round, and round, and let it fly.
 
 [PAUSE 0.8]
 
-NARRATOR: The stone struck Goliath on the forehead. And the giant fell down, flat on his face, on the ground.
+NARRATOR: [slow, amazed] The stone struck Goliath on the forehead. And the giant fell down, flat on his face, on the ground.
 
-NARRATOR: Goliath was dead. David had killed the giant with a sling and a stone. There was no sword in David's hand at all.
+NARRATOR: [plainly, with wonder] Goliath was dead. David had killed the giant with a sling and a stone. There was no sword in David's hand at all.
 
-NARRATOR: When the Philistines saw that their great champion was dead, they turned, and they ran away.
+NARRATOR: [lively] When the Philistines saw that their great champion was dead, they turned, and they ran away.
 
-NARRATOR: David was young, and Goliath was a giant. But David knew something that Goliath did not know. The battle belongs to God.
+NARRATOR: [warm, delighted] David was young, and Goliath was a giant. But David knew something that Goliath did not know. The battle belongs to God.
 
-NARRATOR: You can find this story in the Bible, in the first book of Samuel, chapter seventeen.
+NARRATOR: [warmly] You can find this story in the Bible, in the first book of Samuel, chapter seventeen.
