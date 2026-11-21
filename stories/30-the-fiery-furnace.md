@@ -18,7 +18,7 @@ weighty: true
 
 NARRATOR: This is a story from God's book, the Bible. It is called: The Fiery Furnace.
 
-NARRATOR: God's people were living far from home, in the land of Babylon. The king of Babylon was named Nebuchadnezzar. He made a statue out of gold. It was taller than a house, and it shone in the sun. Then the king's messenger called out to all the people,
+NARRATOR: God's people were living far from home, in the land of Babylon. The king of Babylon was named Nebuchadnezzar. He made a statue out of gold. It was taller than a house, and it shone in the sun. Then the king's messenger called out to all the people.
 
 HERALD: [proclaiming] When you hear the music play, you must fall down and worship the golden statue. Whoever does not fall down will be thrown into a burning, fiery furnace!
 

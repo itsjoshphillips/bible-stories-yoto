@@ -57,7 +57,7 @@ ESTHER: [clear] Our enemy is this wicked Haman!
 
 NARRATOR: Haman was terrified. And the king was furious. That very day, he had Haman put to death.
 
-NARRATOR: Then the king gave Mordecai Haman's place, and a new law was written, so that the Jews could stand up and fight for their lives. They were saved. And in every town, there was gladness, and joy, and feasting.
+NARRATOR: Then the king gave Mordecai Haman's place. And a new law was written, so that the Jews could stand up and fight for their lives. They were saved. And in every town, there was gladness, and joy, and feasting.
 
 NARRATOR: Esther had risked her life for her people. And God had kept his people safe.
 

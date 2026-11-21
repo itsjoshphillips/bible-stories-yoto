@@ -37,7 +37,7 @@ ANGEL: [joyful, ringing] Glory to God in the highest heaven! And peace on earth 
 
 NARRATOR: Then the angels went back to heaven. The fields were dark and quiet again. The shepherds looked at one another.
 
-SHEPHERD: [eager] Come on! Let us go to Bethlehem, and see this thing that the Lord has told us about!
+BETHLEHEM_SHEPHERD: [eager] Come on! Let us go to Bethlehem, and see this thing that the Lord has told us about!
 
 NARRATOR: They hurried off as fast as they could. And they found Mary, and Joseph. And there was the baby, lying in the manger. It was all just as the angel had said.
 

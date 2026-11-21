@@ -44,9 +44,7 @@ NARRATOR: Moses stretched out his hand over the sea. And all night long, God sen
 
 NARRATOR: So God's people walked through the sea. Every one of them, on dry ground.
 
-NARRATOR: Pharaoh's army came charging in after them, right into the middle of the sea. But God threw the army into a muddle. The soldiers shouted,
-
-CROWD_2: [panicked] Run! The Lord is fighting for Israel!
+NARRATOR: Pharaoh's army came charging in after them, right into the middle of the sea. But God threw the army into a muddle. The soldiers shouted, "Run! The Lord is fighting for Israel!"
 
 NARRATOR: Then God said to Moses,
 
