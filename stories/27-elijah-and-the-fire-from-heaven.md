@@ -39,7 +39,7 @@ CROWD: Yes. That is fair.
 
 NARRATOR: The prophets of Baal went first. They called from morning until midday.
 
-AHAB_PROPHET: [calling out] O Baal, answer us! O Baal, answer us!
+BAAL_PROPHET: [calling out] O Baal, answer us! O Baal, answer us!
 
 NARRATOR: But there was no voice. Nobody answered. Elijah began to tease them.
 

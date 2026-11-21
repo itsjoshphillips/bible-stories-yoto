@@ -27,7 +27,7 @@ NARRATOR: So Naaman went. He took his horses and his chariots, and he rode all t
 
 NARRATOR: But Elisha did not come out. He sent a messenger instead.
 
-SERVANT: Go and wash in the River Jordan seven times. Then your skin will be made new, and you will be clean.
+MESSENGER: Go and wash in the River Jordan seven times. Then your skin will be made new, and you will be clean.
 
 NARRATOR: Naaman was angry.
 

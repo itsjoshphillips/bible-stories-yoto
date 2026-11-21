@@ -11,9 +11,8 @@ weighty: true
 # - Omitted as too heavy: the plotters' wives and children were thrown in with
 #   them, and the lions broke their bones (6:24).
 # - "Just as he had always done": 6:10.
-# - Omitted for length: the 120 satraps and three presidents (6:1-2), the
-#   king's attempt to rescue Daniel until sundown is kept in one line (6:14),
-#   the sealing with signet rings (6:17).
+# - Omitted for length: the 120 satraps and three presidents (6:1-2) and the
+#   sealing of the stone with signet rings (6:17).
 
 NARRATOR: This is a story from God's book, the Bible. It is called: Daniel and the Lions.
 

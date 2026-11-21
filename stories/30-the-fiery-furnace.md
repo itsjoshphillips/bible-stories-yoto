@@ -30,7 +30,7 @@ NARRATOR: The king was furious. He sent for the three friends.
 
 NEBUCHADNEZZAR: [angry] Is it true? Do you not worship my golden statue? Bow down now, or you will be thrown into the fire. And then what god can save you from my hand?
 
-SHADRACH: [steady, brave] O king, the God we serve is able to save us from the fire, and he will save us from your hand. But even if he does not, we will never serve your gods. We will not worship your statue.
+SHADRACH: [steady, brave] O king, the God we serve is able to save us from the fire. He will save us from your hand. But even if he does not, we will never serve your gods. We will not worship your statue.
 
 NARRATOR: The king's face twisted with rage. He ordered the furnace to be made seven times hotter. His strongest soldiers tied up the three friends, in all their clothes, and threw them in. The fire was so hot that it killed the soldiers who threw them.
 
