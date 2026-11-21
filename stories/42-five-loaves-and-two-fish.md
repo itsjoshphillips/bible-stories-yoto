@@ -15,15 +15,15 @@ weighty: false
 # - Omitted: that the Passover was near (6:4); the attempt to make Jesus king
 #   (6:15) lies outside the passage.
 
-NARRATOR: This is a story from God's book, the Bible. It is called: Five Loaves and Two Fish.
+NARRATOR: [warm, bright, lively storyteller speaking to small children] This is a story from God's book, the Bible. It is called: Five Loaves and Two Fish.
 
-NARRATOR: Jesus went across the lake, and a huge crowd followed him. They had seen him make sick people well. Jesus went up on a hillside, and sat down there with his friends.
+NARRATOR: [setting the scene] Jesus went across the lake, and a huge crowd followed him. They had seen him make sick people well. Jesus went up on a hillside, and sat down there with his friends.
 
 NARRATOR: Jesus looked up, and saw the great crowd coming towards him. He turned to his friend Philip.
 
 JESUS: Where can we buy bread, so that all these people can eat?
 
-NARRATOR: Jesus only said this to test Philip. He already knew what he was going to do.
+NARRATOR: [confiding] Jesus only said this to test Philip. He already knew what he was going to do.
 
 PHILIP: [dismayed] More than half a year's pay would not buy enough bread! Not even for everyone to have one little bite.
 
@@ -31,17 +31,17 @@ NARRATOR: Then another friend, Andrew, spoke up.
 
 ANDREW: There is a boy here who has five barley loaves and two fish. But what use is that, with so many people?
 
-NARRATOR: Five small loaves. Two little fish. And so, so many people.
+NARRATOR: [doubtful, amused] Five small loaves. Two little fish. And so, so many people.
 
 [SCENE]
 
 JESUS: Tell the people to sit down.
 
-NARRATOR: There was plenty of grass in that place. So the people sat down. There were about five thousand men.
+NARRATOR: [lively] There was plenty of grass in that place. So the people sat down. There were about five thousand men.
 
-NARRATOR: Then Jesus took the loaves. He gave thanks to God. And he gave the bread to the people who were sitting down. He did the same with the fish.
+NARRATOR: [quiet, expectant] Then Jesus took the loaves. He gave thanks to God. And he gave the bread to the people who were sitting down. He did the same with the fish.
 
-NARRATOR: Everybody ate. And everybody had as much as they wanted. Bread, and fish, and more bread, and more fish, until they were all full.
+NARRATOR: [delighted, building] Everybody ate. And everybody had as much as they wanted. Bread, and fish, and more bread, and more fish, until they were all full.
 
 [SCENE]
 
@@ -49,12 +49,12 @@ NARRATOR: When they had finished, Jesus said to his friends,
 
 JESUS: Gather up the pieces that are left over. Let nothing be wasted.
 
-NARRATOR: So they gathered them up. And they filled twelve baskets! Twelve baskets of pieces, left over from five barley loaves.
+NARRATOR: [amazed] So they gathered them up. And they filled twelve baskets! Twelve baskets of pieces, left over from five barley loaves.
 
 NARRATOR: When the people saw what Jesus had done, they said,
 
 CROWD: [amazed] Surely this is the Prophet, the one who was to come into the world!
 
-NARRATOR: Five loaves and two fish were not enough for the crowd. But in the hands of Jesus, they were more than enough.
+NARRATOR: [warm, delighted] Five loaves and two fish were not enough for the crowd. But in the hands of Jesus, they were more than enough.
 
-NARRATOR: You can find this story in the Bible, in the book of John, chapter six.
+NARRATOR: [warmly] You can find this story in the Bible, in the book of John, chapter six.

@@ -20,11 +20,11 @@ weighty: true
 # - Omitted: "your desire shall be for your husband" (3:16); God's words in
 #   3:22 about the tree of life.
 
-NARRATOR: This is a story from God's book, the Bible. It is called: The Snake and the Saddest Day.
+NARRATOR: [warm, bright, lively storyteller speaking to small children] This is a story from God's book, the Bible. It is called: The Snake and the Saddest Day.
 
-NARRATOR: Adam and his wife lived in the beautiful garden God had made. They could eat from every tree, except one. God had said they must not eat from the tree of the knowledge of good and evil. If they did, they would surely die.
+NARRATOR: [bright] Adam and his wife lived in the beautiful garden God had made. They could eat from every tree, except one. God had said they must not eat from the tree of the knowledge of good and evil. If they did, they would surely die.
 
-NARRATOR: Now, the snake was more cunning than any other animal God had made. One day, the snake spoke to the woman.
+NARRATOR: [low, wary] Now, the snake was more cunning than any other animal God had made. One day, the snake spoke to the woman.
 
 SNAKE: [smooth, sly] Did God really say you must not eat from any tree in the garden?
 
@@ -32,15 +32,15 @@ EVE: We may eat fruit from the trees. But God said we must not eat the fruit of 
 
 SNAKE: You will not die. God knows that when you eat it, your eyes will be opened. You will be like God, knowing good and evil.
 
-NARRATOR: The woman looked at the tree. The fruit looked good to eat. It was lovely to look at. And she wanted to be wise. So she took some of the fruit, and she ate it. She gave some to her husband, who was with her. And he ate it too.
+NARRATOR: [quiet, tense] The woman looked at the tree. The fruit looked good to eat. It was lovely to look at. And she wanted to be wise. So she took some of the fruit, and she ate it. She gave some to her husband, who was with her. And he ate it too.
 
 [PAUSE 1.0]
 
-NARRATOR: They had disobeyed God. At once, their eyes were opened, and they knew they had no clothes on. Now they were ashamed. They sewed fig leaves together to cover themselves.
+NARRATOR: [softly, sad] They had disobeyed God. At once, their eyes were opened, and they knew they had no clothes on. Now they were ashamed. They sewed fig leaves together to cover themselves.
 
 [SCENE]
 
-NARRATOR: In the cool of the day, they heard the sound of God walking in the garden. And they hid from him among the trees.
+NARRATOR: [hushed] In the cool of the day, they heard the sound of God walking in the garden. And they hid from him among the trees.
 
 GOD: [calling] Where are you?
 
@@ -60,14 +60,14 @@ NARRATOR: God spoke to the snake first.
 
 GOD: [stern] Because you have done this, you are cursed. You will crawl on your belly, and eat dust. And one day, a child of the woman will crush your head, and you will strike his heel.
 
-NARRATOR: Then God told the woman and the man what their sin had done. Having babies would now bring great pain. The ground would grow thorns and thistles, and work would be hard. And one day, they would die.
+NARRATOR: [gently, serious] Then God told the woman and the man what their sin had done. Having babies would now bring great pain. The ground would grow thorns and thistles, and work would be hard. And one day, they would die.
 
 GOD: [gravely] You are dust. And to dust you will return.
 
-NARRATOR: Adam named his wife Eve, because she would be the mother of everyone living. And God made clothes out of animal skins for Adam and Eve, and he dressed them.
+NARRATOR: [gently] Adam named his wife Eve, because she would be the mother of everyone living. And God made clothes out of animal skins for Adam and Eve, and he dressed them.
 
-NARRATOR: Then God sent them out of the garden. On the east side he placed angels, and a flaming sword that turned every way, to guard the path to the tree of life.
+NARRATOR: [quietly, sad] Then God sent them out of the garden. On the east side he placed angels, and a flaming sword that turned every way, to guard the path to the tree of life.
 
-NARRATOR: It was the saddest day. But God had spoken a promise in the garden. One day, a child would come, who would crush the snake's head.
+NARRATOR: [sad, then hopeful] It was the saddest day. But God had spoken a promise in the garden. One day, a child would come, who would crush the snake's head.
 
-NARRATOR: You can find this story in the Bible, in the book of Genesis, chapter three.
+NARRATOR: [warmly] You can find this story in the Bible, in the book of Genesis, chapter three.

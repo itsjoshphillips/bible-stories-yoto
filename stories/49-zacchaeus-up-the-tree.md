@@ -16,25 +16,25 @@ weighty: false
 # - Ends on Jesus's own summary: the Son of Man came to seek and to save the
 #   lost (19:10). "Son of Man" is explained in story 39.
 
-NARRATOR: This is a story from God's book, the Bible. It is called: Zacchaeus up the Tree.
+NARRATOR: [warm, bright, lively storyteller speaking to small children] This is a story from God's book, the Bible. It is called: Zacchaeus up the Tree.
 
-NARRATOR: Jesus was walking through a town called Jericho. In that town lived a man named Zacchaeus. He was the chief tax collector, and he was very rich.
+NARRATOR: [setting the scene] Jesus was walking through a town called Jericho. In that town lived a man named Zacchaeus. He was the chief tax collector, and he was very rich.
 
-NARRATOR: Tax collectors took money from the people. And many of them took far too much. So nobody liked Zacchaeus.
+NARRATOR: [confiding] Tax collectors took money from the people. And many of them took far too much. So nobody liked Zacchaeus.
 
-NARRATOR: Zacchaeus wanted to see who Jesus was. But there was a big crowd. And Zacchaeus was a short man. He could not see over all those people!
+NARRATOR: [amused] Zacchaeus wanted to see who Jesus was. But there was a big crowd. And Zacchaeus was a short man. He could not see over all those people!
 
-NARRATOR: So he ran on ahead. And he climbed up into a sycamore tree, because Jesus was coming that way.
+NARRATOR: [playful, excited] So he ran on ahead. And he climbed up into a sycamore tree, because Jesus was coming that way.
 
 [SCENE]
 
-NARRATOR: When Jesus came to the tree, he stopped. He looked up.
+NARRATOR: [hushed, expectant] When Jesus came to the tree, he stopped. He looked up.
 
 JESUS: [warmly] Zacchaeus! Hurry, and come down. I must stay at your house today.
 
-NARRATOR: Zacchaeus hurried down as fast as he could. And he welcomed Jesus into his house with great joy.
+NARRATOR: [joyful] Zacchaeus hurried down as fast as he could. And he welcomed Jesus into his house with great joy.
 
-NARRATOR: But the people who saw it began to grumble.
+NARRATOR: [grumbling, low] But the people who saw it began to grumble.
 
 CROWD: [grumbling] He has gone to stay with a man who is a sinner!
 
@@ -46,6 +46,6 @@ ZACCHAEUS: [earnest] Look, Lord! I am giving half of everything I own to the poo
 
 JESUS: [gladly] Today, this house has been saved. For the Son of Man came to look for the lost, and to save them.
 
-NARRATOR: The crowd saw a sinner. But Jesus looked up into that tree, and he called Zacchaeus by his name. Jesus came to look for the lost, and to save them.
+NARRATOR: [warm, delighted] The crowd saw a sinner. But Jesus looked up into that tree, and he called Zacchaeus by his name. Jesus came to look for the lost, and to save them.
 
-NARRATOR: You can find this story in the Bible, in the book of Luke, chapter nineteen.
+NARRATOR: [warmly] You can find this story in the Bible, in the book of Luke, chapter nineteen.

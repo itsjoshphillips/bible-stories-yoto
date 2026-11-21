@@ -16,9 +16,9 @@ weighty: true
 #   James and John went in; the order to tell no one (5:43); the detail that
 #   the woman had spent all her money on doctors is shortened.
 
-NARRATOR: This is a story from God's book, the Bible. It is called: The Little Girl Who Lived Again.
+NARRATOR: [warm, bright, lively storyteller speaking to small children] This is a story from God's book, the Bible. It is called: The Little Girl Who Lived Again.
 
-NARRATOR: A great crowd had gathered around Jesus beside the lake. Then a man named Jairus came pushing through. He was a leader in the town. And he fell down at Jesus's feet.
+NARRATOR: [urgent] A great crowd had gathered around Jesus beside the lake. Then a man named Jairus came pushing through. He was a leader in the town. And he fell down at Jesus's feet.
 
 JAIRUS: [pleading] My little daughter is dying. Please come, and put your hands on her, so that she will get well and live.
 
@@ -26,25 +26,25 @@ NARRATOR: So Jesus went with him. And the whole crowd came too, pressing in on e
 
 [SCENE]
 
-NARRATOR: In that crowd was a woman who had been sick for twelve long years. Many doctors had tried to help her. But she only got worse.
+NARRATOR: [gently] In that crowd was a woman who had been sick for twelve long years. Many doctors had tried to help her. But she only got worse.
 
 NARRATOR: She came up behind Jesus, and she said to herself,
 
 WOMAN: [quietly] If I can just touch his clothes, I will be made well.
 
-NARRATOR: She reached out, and touched his cloak. And at once, she could feel it. She was well!
+NARRATOR: [amazed] She reached out, and touched his cloak. And at once, she could feel it. She was well!
 
-NARRATOR: Jesus stopped. He turned around.
+NARRATOR: [quietly] Jesus stopped. He turned around.
 
 JESUS: Who touched my clothes?
 
-NARRATOR: The woman came forward, trembling. She fell down in front of him, and told him the whole truth.
+NARRATOR: [softly] The woman came forward, trembling. She fell down in front of him, and told him the whole truth.
 
 JESUS: [tenderly] Daughter, your faith has made you well. Go in peace.
 
 [SCENE]
 
-NARRATOR: While Jesus was still speaking, some people came from Jairus's house.
+NARRATOR: [quietly, serious] While Jesus was still speaking, some people came from Jairus's house.
 
 MESSENGER: [heavily] Your daughter is dead. Why trouble the Teacher any more?
 
@@ -52,13 +52,13 @@ NARRATOR: But Jesus said to Jairus,
 
 JESUS: Do not be afraid. Only believe.
 
-NARRATOR: When they came to the house, people were crying and wailing loudly.
+NARRATOR: [softly, sad] When they came to the house, people were crying and wailing loudly.
 
 JESUS: Why all this noise and crying? The child is not dead. She is sleeping.
 
-NARRATOR: And they laughed at him. They knew she had died.
+NARRATOR: [quietly] And they laughed at him. They knew she had died.
 
-NARRATOR: Jesus sent them all outside. He took the girl's father and mother, and went in to where she lay. He took her by the hand, and said,
+NARRATOR: [hushed] Jesus sent them all outside. He took the girl's father and mother, and went in to where she lay. He took her by the hand, and said,
 
 JESUS: [softly] Talitha koum.
 
@@ -66,10 +66,10 @@ NARRATOR: That means, "Little girl, I say to you, get up."
 
 [PAUSE 1.0]
 
-NARRATOR: And straight away, the girl got up, and walked around! She was twelve years old. Her mother and father were filled with wonder.
+NARRATOR: [joyful, amazed] And straight away, the girl got up, and walked around! She was twelve years old. Her mother and father were filled with wonder.
 
-NARRATOR: Then Jesus told them to give her something to eat.
+NARRATOR: [warmly] Then Jesus told them to give her something to eat.
 
-NARRATOR: The little girl had died. But Jesus took her by the hand, and she lived again. Even death must do what Jesus says.
+NARRATOR: [quiet wonder] The little girl had died. But Jesus took her by the hand, and she lived again. Even death must do what Jesus says.
 
-NARRATOR: You can find this story in the Bible, in the book of Mark, chapter five.
+NARRATOR: [warmly] You can find this story in the Bible, in the book of Mark, chapter five.

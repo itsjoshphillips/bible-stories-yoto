@@ -14,11 +14,11 @@ weighty: false
 # - Omitted: the comparison with "ninety-nine righteous persons who need no
 #   repentance" (15:7b), which is hard to explain briefly without distortion.
 
-NARRATOR: This is a story from God's book, the Bible. It is called: The Lost Sheep.
+NARRATOR: [warm, bright, lively storyteller speaking to small children] This is a story from God's book, the Bible. It is called: The Lost Sheep.
 
-NARRATOR: All sorts of people came to listen to Jesus. Some of them were people who had done many wrong things. And Jesus welcomed them.
+NARRATOR: [warmly] All sorts of people came to listen to Jesus. Some of them were people who had done many wrong things. And Jesus welcomed them.
 
-NARRATOR: But the Pharisees, who were very strict teachers, did not like that at all. They grumbled.
+NARRATOR: [grumpy, amused] But the Pharisees, who were very strict teachers, did not like that at all. They grumbled.
 
 PHARISEE: [grumbling] This man welcomes sinners. He even eats with them!
 
@@ -28,9 +28,9 @@ NARRATOR: So Jesus told them a story.
 
 JESUS: Suppose one of you has a hundred sheep, and loses one of them. What does he do?
 
-NARRATOR: He leaves the ninety-nine sheep out in the open country. And he goes after the one that is lost. He looks, and he looks, and he keeps on looking, until he finds it.
+NARRATOR: [searching, earnest] He leaves the ninety-nine sheep out in the open country. And he goes after the one that is lost. He looks, and he looks, and he keeps on looking, until he finds it.
 
-NARRATOR: And when he finds it, he is so glad! He lifts that sheep up onto his shoulders, and carries it all the way home. Then he calls his friends and his neighbours together.
+NARRATOR: [joyful] And when he finds it, he is so glad! He lifts that sheep up onto his shoulders, and carries it all the way home. Then he calls his friends and his neighbours together.
 
 SHEPHERD: [joyful] Be happy with me! I have found my sheep that was lost!
 
@@ -42,14 +42,14 @@ NARRATOR: Then Jesus told them another story.
 
 JESUS: Suppose a woman has ten silver coins, and loses one of them. What does she do?
 
-NARRATOR: She lights a lamp. She sweeps the house. She searches carefully, in every corner, until she finds it.
+NARRATOR: [busy, searching] She lights a lamp. She sweeps the house. She searches carefully, in every corner, until she finds it.
 
-NARRATOR: And when she finds it, she calls her friends and her neighbours together.
+NARRATOR: [delighted] And when she finds it, she calls her friends and her neighbours together.
 
 WOMAN: [delighted] Be happy with me! I have found the coin that I lost!
 
 JESUS: [warmly] I tell you, it is just the same. There is joy among the angels of God over one sinner who turns back to God.
 
-NARRATOR: One lost sheep. One lost coin. And one lost person who comes back to God. Each time, there is joy. God is glad to find the lost.
+NARRATOR: [warm, glad] One lost sheep. One lost coin. And one lost person who comes back to God. Each time, there is joy. God is glad to find the lost.
 
-NARRATOR: You can find this story in the Bible, in the book of Luke, chapter fifteen.
+NARRATOR: [warmly] You can find this story in the Bible, in the book of Luke, chapter fifteen.

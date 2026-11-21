@@ -18,38 +18,38 @@ weighty: false
 # - Paul and Silas answer the jailer together in the text (16:31); the line
 #   is voiced by Paul alone.
 
-NARRATOR: This is a story from God's book, the Bible. It is called: Paul and Silas Sing in Prison.
+NARRATOR: [warm, bright, lively storyteller speaking to small children] This is a story from God's book, the Bible. It is called: Paul and Silas Sing in Prison.
 
-NARRATOR: Saul was now called Paul. He travelled from city to city with his friend Silas, telling people about Jesus.
+NARRATOR: [brightly] Saul was now called Paul. He travelled from city to city with his friend Silas, telling people about Jesus.
 
-NARRATOR: In one city, there was a slave girl with an evil spirit in her. Paul spoke to the spirit, in the name of Jesus, and it came out of her. But the girl's owners were furious, because they had used her to make money.
+NARRATOR: [serious] In one city, there was a slave girl with an evil spirit in her. Paul spoke to the spirit, in the name of Jesus, and it came out of her. But the girl's owners were furious, because they had used her to make money.
 
-NARRATOR: They grabbed Paul and Silas, and dragged them to the rulers of the city. A crowd joined in against them. The rulers had Paul and Silas beaten with sticks, many times. Then they threw them into prison.
+NARRATOR: [quietly, tense] They grabbed Paul and Silas, and dragged them to the rulers of the city. A crowd joined in against them. The rulers had Paul and Silas beaten with sticks, many times. Then they threw them into prison.
 
-NARRATOR: The jailer was told to guard them carefully. So he put them in the deepest, darkest cell, and he locked their feet between heavy blocks of wood.
+NARRATOR: [low, hushed] The jailer was told to guard them carefully. So he put them in the deepest, darkest cell, and he locked their feet between heavy blocks of wood.
 
 [SCENE]
 
-NARRATOR: Now it was midnight. Paul and Silas were sore. They could not move their feet. And do you know what they were doing? [with quiet wonder] They were praying. And they were singing songs to God! All the other prisoners were listening.
+NARRATOR: [hushed] Now it was midnight. Paul and Silas were sore. They could not move their feet. And do you know what they were doing? [with quiet wonder] They were praying. And they were singing songs to God! All the other prisoners were listening.
 
 [SFX: low earthquake rumble, chains rattling, heavy doors swinging open | 4]
 
-NARRATOR: Suddenly, there was a great earthquake. The whole prison shook. All the doors flew open. And everybody's chains fell off!
+NARRATOR: [startled, excited] Suddenly, there was a great earthquake. The whole prison shook. All the doors flew open. And everybody's chains fell off!
 
-NARRATOR: The jailer woke up, and he saw the prison doors wide open. He thought that all his prisoners had run away. He drew his sword, for he thought his own life was over. But Paul shouted out,
+NARRATOR: [quietly, serious] The jailer woke up, and he saw the prison doors wide open. He thought that all his prisoners had run away. He drew his sword, for he thought his own life was over. But Paul shouted out,
 
 PAUL: [loud, urgent] Do not hurt yourself! We are all here!
 
-NARRATOR: The jailer called for lights, and he rushed in. He was trembling. He fell down in front of Paul and Silas. Then he brought them outside.
+NARRATOR: [urgent] The jailer called for lights, and he rushed in. He was trembling. He fell down in front of Paul and Silas. Then he brought them outside.
 
 JAILER: [shaken] Sirs, what must I do to be saved?
 
 PAUL: [warmly] Believe in the Lord Jesus, and you will be saved. You, and your family.
 
-NARRATOR: Then Paul and Silas told the jailer, and everyone in his house, the good news about Jesus.
+NARRATOR: [gently] Then Paul and Silas told the jailer, and everyone in his house, the good news about Jesus.
 
-NARRATOR: That very same hour of the night, the jailer washed their sore backs. Then he was baptised, and all his family with him. He brought Paul and Silas into his house, and gave them a meal. And the jailer was full of joy, with his whole family, because now he believed in God.
+NARRATOR: [warm, glad] That very same hour of the night, the jailer washed their sore backs. Then he was baptised, and all his family with him. He brought Paul and Silas into his house, and gave them a meal. And the jailer was full of joy, with his whole family, because now he believed in God.
 
-NARRATOR: Paul and Silas were locked up in the dark. But God was with them there. And that night, God rescued the jailer too.
+NARRATOR: [warm, sure] Paul and Silas were locked up in the dark. But God was with them there. And that night, God rescued the jailer too.
 
-NARRATOR: You can find this story in the Bible, in the book of Acts, chapter sixteen.
+NARRATOR: [warmly] You can find this story in the Bible, in the book of Acts, chapter sixteen.

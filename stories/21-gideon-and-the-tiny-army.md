@@ -17,17 +17,17 @@ weighty: false
 #   overheard dream (7:9-15), the pursuit and the deaths of the Midianite
 #   leaders (7:23-8:21).
 
-NARRATOR: This is a story from God's book, the Bible. It is called: Gideon and the Tiny Army.
+NARRATOR: [warm, bright, lively storyteller speaking to small children] This is a story from God's book, the Bible. It is called: Gideon and the Tiny Army.
 
-NARRATOR: God's people were living in the promised land. But they turned away from God, and they did what was wrong. So trouble came. Enemies called the Midianites rode in on camels, year after year, and took all their food. God's people hid in caves, and they cried out to God for help.
+NARRATOR: [gently, serious] God's people were living in the promised land. But they turned away from God, and they did what was wrong. So trouble came. Enemies called the Midianites rode in on camels, year after year, and took all their food. God's people hid in caves, and they cried out to God for help.
 
-NARRATOR: Now, there was a man named Gideon. He was hiding too, down in a pit, beating out his wheat where no enemy could see him. And the angel of the Lord came to him.
+NARRATOR: [lighter] Now, there was a man named Gideon. He was hiding too, down in a pit, beating out his wheat where no enemy could see him. And the angel of the Lord came to him.
 
 ANGEL: The Lord is with you, mighty warrior!
 
 GIDEON: [doubtful] If the Lord is with us, why has all this happened to us?
 
-NARRATOR: Then the Lord himself spoke to Gideon.
+NARRATOR: [hushed] Then the Lord himself spoke to Gideon.
 
 GOD: Go, and save Israel from the Midianites. I am sending you.
 
@@ -35,26 +35,26 @@ GIDEON: But Lord, how can I save Israel? My family is the weakest of all. And I 
 
 GOD: [warmly] I will be with you.
 
-NARRATOR: Gideon asked God for a sign, to be sure. He put a sheep's woolly fleece on the ground at night. In the morning the fleece was soaking wet, and the ground around it was dry. Then Gideon knew.
+NARRATOR: [curious] Gideon asked God for a sign, to be sure. He put a sheep's woolly fleece on the ground at night. In the morning the fleece was soaking wet, and the ground around it was dry. Then Gideon knew.
 
 [SCENE]
 
-NARRATOR: So Gideon blew a trumpet, and a great army came to him. Thirty-two thousand men! But God said,
+NARRATOR: [lively] So Gideon blew a trumpet, and a great army came to him. Thirty-two thousand men! But God said,
 
 GOD: You have too many men. If you win, Israel will boast, and say, "We saved ourselves." Tell everyone who is afraid to go home.
 
-NARRATOR: And most of them went home. But God said there were still too many. He had Gideon take the men down to the water for a drink, and he chose only a few of them. Just three hundred.
+NARRATOR: [amused, surprised] And most of them went home. But God said there were still too many. He had Gideon take the men down to the water for a drink, and he chose only a few of them. Just three hundred.
 
 GOD: With these three hundred men, I will save you.
 
-NARRATOR: Down in the valley, the enemy army was spread out as thick as grasshoppers. They had more camels than anyone could count.
+NARRATOR: [hushed, wide-eyed] Down in the valley, the enemy army was spread out as thick as grasshoppers. They had more camels than anyone could count.
 
-NARRATOR: In the middle of the night, Gideon gave each of his men a trumpet, and a clay jar with a burning torch hidden inside. They crept up, all around the enemy camp. Then they blew the trumpets! They smashed the jars! They held up the torches, and they shouted,
+NARRATOR: [whispering excitement] In the middle of the night, Gideon gave each of his men a trumpet, and a clay jar with a burning torch hidden inside. They crept up, all around the enemy camp. Then they blew the trumpets! They smashed the jars! They held up the torches, and they shouted,
 
 GIDEON: [shouting] A sword for the Lord, and for Gideon!
 
-NARRATOR: The whole enemy army woke up in a panic. They cried out, and they fought each other in the dark, and they ran away. Gideon's men just stood where they were.
+NARRATOR: [excited] The whole enemy army woke up in a panic. They cried out, and they fought each other in the dark, and they ran away. Gideon's men just stood where they were.
 
-NARRATOR: Three hundred men did not win that battle. The Lord won it. And nobody in Israel could say, "We saved ourselves."
+NARRATOR: [with wonder] Three hundred men did not win that battle. The Lord won it. And nobody in Israel could say, "We saved ourselves."
 
-NARRATOR: You can find this story in the Bible, in the book of Judges, chapter seven.
+NARRATOR: [warmly] You can find this story in the Bible, in the book of Judges, chapter seven.
