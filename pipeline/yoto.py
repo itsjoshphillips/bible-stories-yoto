@@ -104,6 +104,12 @@ def upload_track(path, auth):
     sys.exit(f"transcode timed out for {path.name}")
 
 
+def upload_image(path, auth, endpoint):
+    """Icons: media/displayIcons/user/me/upload. Cover: media/coverImage/user/me/upload."""
+    q = urllib.parse.urlencode({"autoConvert": "true", "filename": path.name})
+    return call("POST", f"{API}/{endpoint}?{q}", {**auth, "Content-Type": "image/png"}, path.read_bytes())
+
+
 def upload():
     auth = bearer()
     tracks = sorted((BUILD / "tracks").glob("*.mp3"))
@@ -123,12 +129,24 @@ def upload():
                  "duration": info.get("duration"), "fileSize": info.get("fileSize"),
                  "channels": info.get("channels"), "format": info.get("format"),
                  "type": "audio", "overlayLabel": str(n)}
-        chapters.append({"key": key, "title": title, "overlayLabel": str(n), "tracks": [track]})
+        chapter = {"key": key, "title": title, "overlayLabel": str(n), "tracks": [track]}
+        icon = ROOT / "assets" / "icons" / f"{path.stem}.png"
+        if icon.exists():
+            media = upload_image(icon, auth, "media/displayIcons/user/me/upload").get("displayIcon", {})
+            if media.get("mediaId"):
+                ref = {"icon16x16": f"yoto:#{media['mediaId']}"}
+                chapter["display"], track["display"] = ref, ref
+        chapters.append(chapter)
         total_s += info.get("duration") or 0
         total_b += info.get("fileSize") or 0
         print(f"uploaded {n}/{len(tracks)} {title}")
     body = {"title": TITLE, "content": {"chapters": chapters},
             "metadata": {"media": {"duration": total_s, "fileSize": total_b}}}
+    cover = ROOT / "assets" / "cover.png"
+    if cover.exists():
+        image = upload_image(cover, auth, "media/coverImage/user/me/upload").get("coverImage", {})
+        if image.get("mediaUrl"):
+            body["metadata"]["cover"] = {"imageL": image["mediaUrl"]}
     if STATE.exists():
         body["cardId"] = json.loads(STATE.read_text())["cardId"]
     res = call("POST", f"{API}/content", {**auth, "Content-Type": "application/json"},
