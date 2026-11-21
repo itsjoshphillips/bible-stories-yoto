@@ -10,6 +10,7 @@ Python standard library plus ffmpeg/ffprobe only.
       --mock        no API calls: tones stand in for speech (tests the assembly)
       --verify      transcribe each chunk and compare it with the script
       --takes N     render N takes per chunk and keep the closest (implies --verify)
+      --no-sfx      replace [SFX] cues with a pause
 """
 import argparse
 import difflib
@@ -373,6 +374,8 @@ def build_story(story, cfg, args):
     for kind, payload in sequence(story, cfg["model"]["max_chars"]):
         if kind == "pause":
             add_silence(payload.seconds)
+        elif kind == "sfx" and args.no_sfx:
+            add_silence(au["scene_pause"])
         elif kind == "sfx":
             p = work / f"{len(parts):03d}-sfx.wav"
             to_wav(render_sfx(payload, args.mock), p, au["sfx_loudness"], trim=False)
@@ -470,6 +473,7 @@ def main():
     p.add_argument("files", nargs="*")
     p.add_argument("--mock", action="store_true")
     p.add_argument("--verify", action="store_true")
+    p.add_argument("--no-sfx", action="store_true", help="replace [SFX] cues with a pause")
     p.add_argument("--takes", type=int, default=1)
     p.set_defaults(fn=cmd_build)
     sub.add_parser("voices").set_defaults(fn=cmd_voices)
