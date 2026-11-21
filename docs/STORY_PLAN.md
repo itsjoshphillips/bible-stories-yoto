@@ -1,8 +1,8 @@
 # Story plan: 60 stories, one card
 
 **Sixty stories of roughly four minutes each tell the whole arc from creation
-to new creation and fit one Yoto card with about an hour to spare.** The four
-pilots average 3.6 minutes, which projects to 3.6 hours against Yoto's limit of
+to new creation and fit one Yoto card with about an hour to spare.** The 60
+scripts average 3.4 minutes, which totals 3.4 hours against Yoto's limit of
 5 hours, 100 tracks and 500 MB per card.
 
 The selection follows three rules:
@@ -11,7 +11,7 @@ The selection follows three rules:
    moves the main plot forward: creation, fall, promise, rescue, kingdom,
    exile, the promised King, the cross, the resurrection, the church, the new
    creation. Story 33 exists purely to bridge the Old Testament to the New.
-2. **The hard stories stay in.** Thirteen are marked W (weighty): they contain
+2. **The hard stories stay in.** Fifteen are marked W (weighty): they contain
    death, judgement or real danger. They are told plainly under the rules in
    `STYLE_GUIDE.md`, and each is worth a parental listen before it reaches the
    card.
@@ -19,7 +19,7 @@ The selection follows three rules:
    short teaching story are included because they are stories in their own
    right.
 
-Status: pilots are written for 1, 25, 40 and 53. The rest are unwritten.
+Status: all 60 scripts are written. None has yet been rendered to audio.
 
 ## Old Testament (33)
 
@@ -28,7 +28,7 @@ Status: pilots are written for 1, 25, 40 and 53. The rest are unwritten.
 | 1 | God Makes Everything | Genesis 1:1-2:3 | |
 | 2 | Adam and Eve in the Garden | Genesis 2:4-25 | |
 | 3 | The Snake and the Saddest Day | Genesis 3 | W |
-| 4 | Cain and Abel | Genesis 4:1-16 | W |
+| 4 | Cain and Abel | Genesis 4:1-16, 25-26 | W |
 | 5 | Noah and the Great Flood | Genesis 6:5-9:17 | W |
 | 6 | The Tower of Babel | Genesis 11:1-9 | |
 | 7 | God's Promise to Abram | Genesis 12:1-9; 15:1-6 | |

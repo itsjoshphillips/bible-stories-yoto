@@ -6,15 +6,15 @@ load the result onto one Make Your Own card.** The scripts are the product;
 the audio is a repeatable build from them, so any story can be reworded and
 re-rendered in minutes for a few cents.
 
-Four pilot scripts and a working build pipeline are in this repository. The
+All 60 scripts and a working build pipeline are in this repository. The
 pipeline has been run end to end with a mock voice backend; it has not yet
 been run against ElevenLabs or Yoto, because neither an API key nor network
 access to those services was available where it was built.
 
 ## Why this shape
 
-1. **Sixty stories fit one card and cover the whole arc.** The pilots average
-   3.6 minutes, projecting to 3.6 hours against Yoto's 5 hour, 100 track,
+1. **Sixty stories fit one card and cover the whole arc.** The scripts average
+   3.4 minutes, totalling 3.4 hours against Yoto's 5 hour, 100 track,
    500 MB limit. The list runs from creation to new creation and keeps the
    hard stories in. See [docs/STORY_PLAN.md](docs/STORY_PLAN.md).
 2. **Fidelity is enforced by process, not by good intentions.** Every script
@@ -73,9 +73,8 @@ from `assets/`, then a limiter and 128 kbps mono MP3.
 
 ## Decisions needed
 
-1. **Tone.** Read the four pilots, above all
-   `stories/53-jesus-dies-on-the-cross.md`, which sets how plain the hard
-   stories are.
+1. **Hard stories.** Listen to the 15 weighty stories (marked W in the plan)
+   before they reach the card.
 2. **Narrator.** British, Australian or other accent; male or female.
 3. **ElevenLabs account.** A paid plan with API access and its key.
-4. **Interpretive sentences.** Keep or strike the flagged glosses (two so far).
+4. **Interpretive sentences.** Keep or strike the glosses flagged in each script's fidelity notes.
