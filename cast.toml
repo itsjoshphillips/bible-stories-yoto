@@ -4,7 +4,7 @@
 # The voice_id values below are ElevenLabs stock voices confirmed present on the account.
 
 [model]
-id = "eleven_v3"          # try "eleven_v4" if your account has it; both accept audio tags
+id = "eleven_v4"
 output_format = "mp3_44100_128"
 max_chars = 1800          # ElevenLabs advises <= 2,000 characters per dialogue request
 # stability = 0.5         # uncomment to send settings.stability
