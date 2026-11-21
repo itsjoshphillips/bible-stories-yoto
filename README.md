@@ -6,15 +6,16 @@ load the result onto one Make Your Own card.** The scripts are the product;
 the audio is a repeatable build from them, so any story can be reworded and
 re-rendered in minutes for a few cents.
 
-All 60 scripts and a working build pipeline are in this repository. The
-pipeline has been run end to end with a mock voice backend; it has not yet
-been run against ElevenLabs or Yoto, because neither an API key nor network
-access to those services was available where it was built.
+All 60 scripts are written and have been rendered on ElevenLabs' `eleven_v4`
+model: 2.5 hours of audio in 60 tracks (145 MB), with every chunk checked
+against its script by transcription and none flagged. The Yoto uploader has
+not been run; dragging the MP3s into my.yotoplay.com is the tested-by-design
+fallback.
 
 ## Why this shape
 
 1. **Sixty stories fit one card and cover the whole arc.** The scripts average
-   3.4 minutes, totalling 3.4 hours against Yoto's 5 hour, 100 track,
+   2.5 minutes as rendered, totalling 2.5 hours against Yoto's 5 hour, 100 track,
    500 MB limit. The list runs from creation to new creation and keeps the
    hard stories in. See [docs/STORY_PLAN.md](docs/STORY_PLAN.md).
 2. **Fidelity is enforced by process, not by good intentions.** Every script
@@ -57,19 +58,19 @@ Requirements: Python 3.11 or later and ffmpeg. No Python packages. Set
 or in a `.env` file.
 
 Audio treatment per track: edge silence trimmed from each chunk, speech
-levelled to -16 LUFS, delivery slowed by 5 per cent without changing pitch,
-controlled pauses between chunks and scenes, optional intro and outro stings
+levelled to -16 LUFS, controlled pauses between chunks and scenes, optional intro and outro stings
 from `assets/`, then a limiter and 128 kbps mono MP3.
 
 ## What is and is not verified
 
 | Item | Status |
 |------|--------|
-| Script parser, lint, chunking, caching, ffmpeg assembly, loudness | Run and checked with `--mock` |
-| ElevenLabs request shape (`/v1/text-to-dialogue`, `inputs`, `model_id`) | From the published API reference; not yet called |
-| `settings.stability`, `seed`, the sound-effect and transcription calls | From memory of the API; confirm on first run |
-| Voice IDs in `cast.toml` | Placeholders from memory; run `voices` and `audition` before trusting them |
-| Yoto uploader | Written from Yoto's published flow; untested. Dragging the MP3s into my.yotoplay.com is the fallback |
+| Parser, lint, chunking, caching, ffmpeg assembly, loudness | Run on all 60 stories |
+| ElevenLabs dialogue, sound-effect and transcription calls | Run on all 60 stories |
+| Measured cost | About 0.23 credits per character; about 32,000 credits for one full pass |
+| Voice IDs in `cast.toml` | Confirmed present on the account |
+| How the audio sounds | Judged by ear on stories 1, 25, 40 and 53 only |
+| Yoto uploader | Written from Yoto's published flow; never run |
 
 ## Decisions needed
 
