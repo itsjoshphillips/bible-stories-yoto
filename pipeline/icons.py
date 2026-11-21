@@ -60,16 +60,23 @@ def main():
     cover = Image.new("RGB", (W, H), (22, 34, 68))
     d = ImageDraw.Draw(cover)
     bold = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
-    for text, size, y in [("Bible", 120, 90), ("Stories", 120, 220)]:
+    loaf = glyph("🍞").resize((84, 84), Image.LANCZOS)
+    f = ImageFont.truetype(bold, 46)
+    brand = "BARLEY LOAF"
+    tw = d.textlength(brand, font=f)
+    x0 = (W - (84 + 18 + tw)) / 2
+    cover.paste(loaf, (int(x0), 52), loaf)
+    d.text((x0 + 84 + 18, 68), brand, font=f, fill=(240, 201, 92))
+    for text, size, y in [("Bible", 112, 160), ("Stories", 112, 282)]:
         f = ImageFont.truetype(bold, size)
-        d.text(((W - d.textlength(text, font=f)) / 2, y), text, font=f, fill=(255, 221, 120))
-    f = ImageFont.truetype(bold, 34)
-    sub = "from creation to new creation"
-    d.text(((W - d.textlength(sub, font=f)) / 2, 380), sub, font=f, fill=(235, 235, 245))
+        d.text(((W - d.textlength(text, font=f)) / 2, y), text, font=f, fill=(255, 255, 255))
+    f = ImageFont.truetype(bold, 30)
+    sub = "The Bible's big story, for small ears"
+    d.text(((W - d.textlength(sub, font=f)) / 2, 428), sub, font=f, fill=(240, 201, 92))
     picks = [1, 5, 15, 17, 24, 31, 29, 35, 40, 42, 45, 54]
     for i, n in enumerate(picks):
-        g = glyph(EMOJI[n]).resize((120, 120), Image.LANCZOS)
-        cover.paste(g, (64 + i % 3 * 195, 470 + i // 3 * 132), g)
+        g = glyph(EMOJI[n]).resize((112, 112), Image.LANCZOS)
+        cover.paste(g, (68 + i % 3 * 195, 500 + i // 3 * 124), g)
     cover.save(ROOT / "assets" / "cover.png")
     print(len(stories), "icons written")
 

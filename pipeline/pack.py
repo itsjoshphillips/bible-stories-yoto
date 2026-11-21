@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Assemble sellable digital packs from build/tracks and assets.
 
-  pack.py            builds build/packs/{complete,old-testament,new-testament}/
+  pack.py            builds every pack in PACKS under build/packs/
 
 Each pack holds audio/, icons/, cover.png, playlist.json, Parent-Guide.html
 (printed to PDF by pipeline/guide_pdf.js), LICENCE.txt and NOTICES.txt.
@@ -13,9 +13,16 @@ import shutil
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-PACKS = {"complete": (1, 60, "Bible Stories: Creation to New Creation"),
-         "old-testament": (1, 33, "Bible Stories: The Old Testament"),
-         "new-testament": (34, 60, "Bible Stories: The New Testament")}
+BRAND = "Barley Loaf Bible Stories"
+R = lambda lo, hi: list(range(lo, hi + 1))
+PACKS = {  # slug: (story numbers, pack name)
+    "complete": (R(1, 60), "The Complete Collection: Creation to New Creation"),
+    "old-testament": (R(1, 33), "Volume 1: The Old Testament"),
+    "new-testament": (R(34, 60), "Volume 2: The New Testament"),
+    "christmas": ([33, 34, 35, 36], "The Christmas Story"),
+    "easter": ([51, 52, 53, 54, 55], "The Easter Story"),
+    "free-sampler": ([1, 25, 40, 45, 48], "Free Sampler"),
+}
 
 LICENCE = """LICENCE: PERSONAL AND HOUSEHOLD USE
 
@@ -56,6 +63,7 @@ CSS = """
 @page { size: A4; margin: 18mm 16mm; }
 body { font: 11pt/1.5 Georgia, 'DejaVu Serif', serif; color: #1c2333; }
 h1 { font: 700 26pt/1.15 'DejaVu Sans', Helvetica, sans-serif; color: #16224a; margin: 0 0 4pt; }
+p.brand { font: 700 11pt 'DejaVu Sans', Helvetica, sans-serif; letter-spacing: 1.5pt; text-transform: uppercase; color: #b98a12; margin: 0 0 6pt; }
 h2 { font: 700 14pt 'DejaVu Sans', Helvetica, sans-serif; color: #16224a; margin: 20pt 0 6pt;
      border-bottom: 2px solid #f0c95c; padding-bottom: 3pt; break-after: avoid; }
 p.lead { font-size: 12.5pt; }
@@ -88,11 +96,12 @@ def guide(name, stories, total_s):
     weighty = "".join(f"<li><b>{s['number']}. {e(s['title'])}</b> ({e(s['refs'])})</li>"
                       for s in stories if s["weighty"])
     n = len(stories)
-    return f"""<!doctype html><html lang="en-GB"><meta charset="utf-8"><title>{e(name)}</title>
+    return f"""<!doctype html><html lang="en-GB"><meta charset="utf-8"><title>{e(BRAND)}: {e(name)}</title>
 <style>{CSS}</style><body>
+<p class=brand>{e(BRAND)}</p>
 <h1>{e(name)}</h1>
 <p class=lead>{n} Bible stories for children aged three to five, told in order,
-with a cast of voices. {total_s / 3600:.1f} hours of audio, ready for a Yoto
+with a cast of voices. {round(total_s / 60)} minutes of audio, ready for a Yoto
 Make Your Own card or any MP3 player.</p>
 
 <h2>What is in this pack</h2>
@@ -112,7 +121,7 @@ Make Your Own card or any MP3 player.</p>
 <li>For each track, click its small icon, choose upload, and pick the picture from <b>icons</b> with the same number. Allow about ten minutes. This step is optional.</li>
 <li>Save. In the Yoto app on your phone, open the playlist, choose link to card, and hold a blank Make Your Own card on the player.</li>
 </ol>
-<p class=small>One card holds up to 100 tracks and 5 hours, so this pack fits on a single card.
+<p class=small>One card holds up to 100 tracks and 5 hours, so this pack fits on one card with room to spare.
 The files are ordinary MP3s and also play on any phone, tablet, car stereo or other children's audio player.</p>
 
 <h2>How the stories are told</h2>
@@ -128,8 +137,7 @@ The files are ordinary MP3s and also play on any phone, tablet, car stereo or ot
 <p class=small><span class=w>W</span> marks a weighty story: it includes death, judgement or real danger. You may want to listen first.</p>
 <table><tr><th>#</th><th>Story</th><th>Bible passage</th><th>Length</th></tr>{rows}</table>
 
-<h2>Weighty stories in this pack</h2>
-<ul>{weighty}</ul>
+{("<h2>Weighty stories in this pack</h2><ul>" + weighty + "</ul>") if weighty else ""}
 
 <h2>How this was made</h2>
 <p>The scripts are original retellings written for this collection and checked against the Bible passages listed above.
@@ -149,25 +157,25 @@ def main():
     for s in stories:
         rep = ROOT / "build" / "reports" / f"{s['stem']}.json"
         s["seconds"] = json.loads(rep.read_text())["seconds"]
-    for slug, (lo, hi, name) in PACKS.items():
+    for slug, (numbers, name) in PACKS.items():
         out = ROOT / "build" / "packs" / slug
         shutil.rmtree(out, ignore_errors=True)
         (out / "audio").mkdir(parents=True)
         (out / "icons").mkdir()
-        chosen = [s for s in stories if lo <= s["number"] <= hi]
+        chosen = [s for s in stories if s["number"] in numbers]
         for s in chosen:
             shutil.copy(ROOT / "build" / "tracks" / f"{s['stem']}.mp3", out / "audio")
             shutil.copy(ROOT / "assets" / "icons" / f"{s['stem']}.png", out / "icons")
         shutil.copy(ROOT / "assets" / "cover.png", out / "cover.png")
         total = sum(s["seconds"] for s in chosen)
-        (out / "playlist.json").write_text(json.dumps({"title": name, "cover": "cover.png", "chapters": [
+        (out / "playlist.json").write_text(json.dumps({"title": f"{BRAND}: {name}", "cover": "cover.png", "chapters": [
             {"number": s["number"], "title": s["title"], "passage": s["refs"], "weighty": s["weighty"],
              "seconds": s["seconds"], "audio": f"audio/{s['stem']}.mp3", "icon": f"icons/{s['stem']}.png"}
             for s in chosen]}, indent=2, ensure_ascii=False))
         (out / "LICENCE.txt").write_text(LICENCE)
         (out / "NOTICES.txt").write_text(NOTICES)
         (out / "Parent-Guide.html").write_text(guide(name, chosen, total))
-        print(f"{slug}: {len(chosen)} stories, {total / 3600:.2f} h")
+        print(f"{slug}: {len(chosen)} stories, {total / 60:.0f} min")
 
 
 if __name__ == "__main__":
