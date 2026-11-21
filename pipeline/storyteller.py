@@ -360,16 +360,16 @@ def build_story(story, cfg, args):
             silence(seconds, p)
             add(p)
 
-    def add_asset(key):
+    def add_asset(key, gap):
         src = ROOT / au.get(key, "")
-        if au.get(key) and src.is_file():
+        if au.get(key) and src.is_file() and story.meta.get(key) != "none":
             p = work / f"{len(parts):03d}-{key}.wav"
             to_wav(src, p, au["loudness"] - 4, trim=False)
             add(p)
-            add_silence(0.6)
+            add_silence(gap)
 
     add_silence(au["lead_in"])
-    add_asset("intro")
+    add_asset("intro", au.get("sting_gap", 0.25))
     previous = None
     for kind, payload in sequence(story, cfg["model"]["max_chars"]):
         if kind == "pause":
@@ -410,7 +410,7 @@ def build_story(story, cfg, args):
             report.append(entry)
         previous = kind
     add_silence(0.8)
-    add_asset("outro")
+    add_asset("outro", 0)
     add_silence(au["tail"])
 
     listing = work / "concat.txt"

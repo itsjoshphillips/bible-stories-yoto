@@ -18,6 +18,7 @@ scene_pause = 1.2         # seconds for a [SCENE] break
 lead_in = 0.4             # silence at the very start of a track
 tail = 1.5                # silence at the very end of a track
 intro = "assets/intro.mp3"   # optional musical sting; skipped if the file is absent
+sting_gap = 0.25          # seconds between the intro sting and the first words
 outro = "assets/outro.mp3"   # optional; skipped if absent
 sfx_loudness = -27.0      # sound effects sit well under the voices
 verify_threshold = 0.90   # minimum transcript similarity before a chunk is flagged

@@ -3,6 +3,7 @@ number: 53
 title: Jesus Dies on the Cross
 refs: Luke 23:1-56; Mark 15:16-39; John 19:28-30
 weighty: true
+intro: none
 ---
 # Fidelity notes
 # - Not softened: the beating, the thorns, the nails, the mockery and the death

@@ -85,4 +85,5 @@ JESUS: [firm, with calm authority] Peace. Be still.
 
 `[PAUSE n]` inserts n seconds of silence, `[SCENE]` a standard scene break,
 and `[SFX: description | seconds]` a generated sound effect. Every speaker
-name must be mapped to a voice slot in `cast.toml`.
+name must be mapped to a voice slot in `cast.toml`. Front matter `intro: none`
+(or `outro: none`) leaves the musical sting off that story.
