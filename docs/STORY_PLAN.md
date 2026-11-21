@@ -44,7 +44,7 @@ Status: pilots are written for 1, 25, 40 and 53. The rest are unwritten.
 | 17 | Through the Red Sea | Exodus 13:17-14:31 | W |
 | 18 | Bread from Heaven | Exodus 16:1-17:7 | |
 | 19 | The Ten Commandments | Exodus 19-20; 32 | |
-| 20 | The Walls of Jericho | Joshua 1-2; 6 | |
+| 20 | The Walls of Jericho | Joshua 1-2; 6 | W |
 | 21 | Gideon and the Tiny Army | Judges 6-7 | |
 | 22 | Ruth and Naomi | Ruth 1-4 | |
 | 23 | God Calls Samuel | 1 Samuel 1; 3 | |

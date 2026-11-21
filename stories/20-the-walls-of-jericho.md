@@ -2,7 +2,7 @@
 number: 20
 title: The Walls of Jericho
 refs: Joshua 1-2; 6
-weighty: false
+weighty: true
 ---
 # Fidelity notes
 # - Judgement call, flagged for parental review: Joshua 6:21 says the city

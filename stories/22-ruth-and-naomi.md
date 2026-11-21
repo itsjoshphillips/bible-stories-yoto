@@ -39,7 +39,7 @@ RUTH: Why are you so kind to me? I am a stranger here.
 
 BOAZ: I have heard about everything you have done for Naomi. May the Lord, the God of Israel, repay you. You have come to shelter under his wings.
 
-NARRATOR: And Boaz told his workers to drop extra grain on purpose, for Ruth to find. That evening, Ruth carried home a great big load. Naomi could hardly believe it!
+NARRATOR: And Boaz told his workers to drop extra grain on purpose, for Ruth to find. That evening, Ruth carried home a great big load. Naomi asked whose field she had worked in. And Ruth told her about Boaz.
 
 NAOMI: [glad] The Lord has not stopped being kind! That man is one of our own family.
 
