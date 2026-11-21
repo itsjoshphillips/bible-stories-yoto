@@ -7,9 +7,9 @@ weighty: false
 # Fidelity notes
 # - Speech is close paraphrase of 1 Kings 17:1; 18:21, 24, 26-27, 36-39.
 # - Elijah's teasing of the prophets of Baal (18:27) is kept; it is in the text.
-# - Flagged for parental review, omitted: Elijah has the prophets of Baal put
-#   to death at the brook Kishon (18:40). Left out for length and age; add one
-#   plain sentence after the people's confession if you want it in.
+# - Softened by parental decision: Elijah has the prophets of Baal put to death
+#   at the brook Kishon (18:40). The script says only that every one of them
+#   was defeated that day, which is true but does not state the killing.
 # - Omitted as gore: the prophets of Baal cutting themselves (18:28).
 # - Omitted for length: the widow of Zarephath and her son (17:8-24), Obadiah
 #   (18:1-16), the seven trips to look for the cloud (18:43-44).
@@ -64,6 +64,8 @@ NARRATOR: When the people saw it, they fell down with their faces to the ground.
 CROWD: [awed] The Lord, he is God!
 
 CROWD_2: [awed] The Lord, he is God!
+
+NARRATOR: That day, every one of the prophets of Baal was defeated.
 
 NARRATOR: Then a little cloud rose up out of the sea, as small as a man's hand. The sky grew black. The wind blew. And down came the rain.
 

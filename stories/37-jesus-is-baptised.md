@@ -5,13 +5,13 @@ refs: Matthew 3:1-4:11
 weighty: false
 ---
 # Fidelity notes
-# - Speech is close paraphrase of Matthew 3:2, 11, 14-15, 17; 4:3-4, 9-10.
+# - Speech is close paraphrase of Matthew 3:2, 11, 14-15, 17; 4:3-10.
 # - "Turn back to God" stands for "repent"; "everything that God says is
 #   right" for "to fulfil all righteousness" (3:15).
 # - Not softened: the devil is named, and he tempts Jesus in person.
-# - Compressed: three temptations to two. The temple temptation (4:5-7) is
-#   omitted for length; the count is not stated, so nothing false is said.
-# - Jesus's answers are his own quotations of Deuteronomy 8:3 and 6:13.
+# - All three temptations are told, in Matthew's order: bread, temple, mountain.
+# - The devil's own quotation of Scripture (Psalm 91:11-12) is kept, as in 4:6.
+# - Jesus's answers are his own quotations of Deuteronomy 8:3, 6:16 and 6:13.
 # - Omitted: John's warning to the Pharisees and Sadducees (3:7-10, 12).
 
 NARRATOR: This is a story from God's book, the Bible. It is called: Jesus Is Baptised.
@@ -44,7 +44,13 @@ DEVIL: [sly] If you are the Son of God, tell these stones to turn into bread.
 
 JESUS: [steady] It is written in God's word: people do not live on bread alone. They live on every word that God speaks.
 
-NARRATOR: The devil tried again. He took Jesus up a very high mountain, and showed him all the kingdoms of the world, and all their riches.
+NARRATOR: The devil tried again. He took Jesus to the holy city, and stood him on the very highest part of God's temple.
+
+DEVIL: [coaxing] If you are the Son of God, throw yourself down. For it is written: God will send his angels to look after you. They will lift you up in their hands, so that you will not even hurt your foot on a stone.
+
+JESUS: [steady] It is also written: do not put the Lord your God to the test.
+
+NARRATOR: The devil tried a third time. He took Jesus up a very high mountain, and showed him all the kingdoms of the world, and all their riches.
 
 DEVIL: [smooth] I will give you all of this, if you will bow down and worship me.
 
